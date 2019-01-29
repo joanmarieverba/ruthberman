@@ -14,8 +14,8 @@ body {
   font-family: 'Alfa Slab One', cursive;
 }
 
-.navbar {
-  color: white;
-  font-weight: bold;
 
+.nav-title {
+  font-weight: bold;
+  font-size: 3vh;
 }
