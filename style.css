@@ -3,15 +3,16 @@ body {
     font-family: 'Roboto';
 }
 
+.autograph {
+  font-family: 'Cookie', cursive;
+  font-size: 5vh;
+}
+
 .imgtop {
   position: absolute;
   left: 0px;
   top: 0px;
   z-index: -1; 
-}
-
-.lineHeader1 {
-  font-family: 'Alfa Slab One', cursive;
 }
 
 
@@ -38,4 +39,8 @@ body {
 
 .text-green {
   color: #49b970;
+}
+
+.wide-font{
+  font-family: 'Alfa Slab One', cursive;
 }
