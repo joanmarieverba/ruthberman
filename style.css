@@ -21,5 +21,17 @@ body {
 }
 
 .section1 {
-  margin-top: 10vh;
+  background-color: aliceblue;
+  margin-top: 8vh;
+  padding: 10px;
+}
+
+  @media screen and (max-width: 640px) {
+    .section1 {
+      margin-top: 25vh;
+    }
+  }
+
+.section2 {
+    margin-top: 10vh;
 }
