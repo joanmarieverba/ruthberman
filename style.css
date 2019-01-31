@@ -52,14 +52,11 @@ body {
 /* Interests area */
 
 .services-area {
-  margin-top: 2vh;
   background-color: aliceblue;
+  margin-top: 5vh;
+  padding-top: 5vh;
 }
-/* This is for the icons...may be able to delete */
-.single-service span {
-    color: #49b970;
-    font-size: 36px;
-}
+
 .single-service h3 {
     color: #5b5b5b;
     font-size: 18px;
