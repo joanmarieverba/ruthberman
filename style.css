@@ -50,6 +50,12 @@ body {
 }
 
 /* Interests area */
+
+.services-area {
+  margin-top: 2vh;
+  background-color: aliceblue;
+}
+
 .single-service span {
     color: #49b970;
     font-size: 36px;
