@@ -55,7 +55,7 @@ body {
   margin-top: 2vh;
   background-color: aliceblue;
 }
-
+/* This is for the icons...may be able to delete */
 .single-service span {
     color: #49b970;
     font-size: 36px;
@@ -92,9 +92,9 @@ body {
 .single-service:hover {
     background-color: #eff2f5;
 }
-.coustom-col {
+.custom-col {
   padding: 0 37px;
 }
-.coustom-row {
+.custom-row {
     margin: 0 -37px;
 }
