@@ -48,3 +48,47 @@ body {
 .wide-font{
   font-family: 'Archivo Black', sans-serif;
 }
+
+/* Interests area */
+.single-service span {
+    color: #49b970;
+    font-size: 36px;
+}
+.single-service h3 {
+    color: #5b5b5b;
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 16px;
+    margin-top: 21px;
+    padding-bottom: 14px;
+    position: relative;
+}
+.single-service h3::before {
+    background-color: #d7dbde;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 46px;
+}
+.single-service > p {
+    color: black;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    margin: 0;
+}
+.single-service {
+  padding: 58px 34px 73px 32px;
+  transition: all 0.3s ease 0s;
+}
+.single-service:hover {
+    background-color: #eff2f5;
+}
+.coustom-col {
+  padding: 0 37px;
+}
+.coustom-row {
+    margin: 0 -37px;
+}
