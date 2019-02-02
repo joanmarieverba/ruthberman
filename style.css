@@ -41,6 +41,18 @@ body {
     margin-top: 15vh;
 }
 
+.section-a2 {
+    background-color: aliceblue;
+    margin-top: 8vh;
+    padding-top: 5vh;
+}
+
+section-font {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 5vh;
+    font-weight: bold;
+}
+
 .text-green {
   color: #49b970;
 }
