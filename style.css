@@ -57,6 +57,10 @@ section-font {
   color: #49b970;
 }
 
+.vspace {
+  margin-bottom: 1vh;
+}
+
 .wide-font{
   font-family: 'Archivo Black', sans-serif;
 }
