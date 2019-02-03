@@ -57,6 +57,10 @@ section-font {
   color: #49b970;
 }
 
+.top-vspace {
+  margin-top: 5vh;
+}
+
 .vspace {
   margin-bottom: 1vh;
 }
