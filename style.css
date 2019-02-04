@@ -107,7 +107,7 @@ section-font {
   transition: all 0.3s ease 0s;
 }
 .single-service:hover {
-    background-color: #eff2f5;
+    background-color: antiquewhite;
 }
 .custom-col {
   padding: 0 37px;
