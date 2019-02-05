@@ -53,8 +53,21 @@ section-font {
     font-weight: bold;
 }
 
+.text-background {
+   background-color: #49b970;
+   color: white;
+}
+
+.text-center {
+  text-align: center;
+}
+
 .text-green {
   color: #49b970;
+}
+
+.text-margin {
+  margin-left: 50vw;
 }
 
 .top-vspace {
