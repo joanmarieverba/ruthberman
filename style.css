@@ -15,6 +15,9 @@ body {
   z-index: -1; 
 }
 
+.lmargin {
+  margin-left: 20vw;
+}
 
 .nav-title {
   font-weight: bold;
@@ -76,6 +79,10 @@ section-font {
 
 .vspace {
   margin-bottom: 1vh;
+}
+
+.vspace-bottom {
+  margin-bottom: 5vh;
 }
 
 .wide-font{
