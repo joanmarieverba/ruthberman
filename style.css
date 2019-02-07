@@ -81,6 +81,10 @@ section-font {
   margin-bottom: 1vh;
 }
 
+.vspace-double {
+  margin-bottom: 2vh;
+}
+
 .vspace-bottom {
   margin-bottom: 5vh;
 }
