@@ -73,6 +73,10 @@ section-font {
   margin-left: 50vw;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .top-vspace {
   margin-top: 5vh;
 }
