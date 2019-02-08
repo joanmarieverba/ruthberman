@@ -8,6 +8,18 @@ body {
   font-size: 5vh;
 }
 
+
+.btn {
+  width: 150px;
+  height: 50px;
+}
+
+.cover {
+  width: 150px;
+  height: 225px;
+}
+
+
 .imgtop {
   position: absolute;
   left: 0px;
@@ -19,9 +31,19 @@ body {
   margin-left: 20vw;
 }
 
+.lmargin-sm {
+  margin-left: 1vw;
+}
+
 .nav-title {
   font-weight: bold;
   font-size: 3vh;
+}
+
+.rectanglesm {
+  width: 200px;
+  height: 175px;
+  margin-top: 1vw;
 }
 
 .section1 {
@@ -50,10 +72,19 @@ body {
     padding-top: 5vh;
 }
 
+.section-background {
+  background-color: aliceblue;
+}
+
 section-font {
     font-family: 'Archivo Black', sans-serif;
     font-size: 5vh;
     font-weight: bold;
+}
+
+.square {
+  width: 150px;
+  height: 150px;
 }
 
 .text-background {
@@ -77,8 +108,13 @@ section-font {
   text-align: right;
 }
 
+
 .top-vspace {
   margin-top: 5vh;
+}
+
+.top-padding {
+  padding-top: 2vh;
 }
 
 .vspace {
