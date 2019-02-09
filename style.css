@@ -46,6 +46,10 @@ body {
   margin-top: 1vw;
 }
 
+.right-padding {
+  padding-right: 2vw;
+}
+
 .section1 {
   background-color: aliceblue;
   margin-top: 8vh;
