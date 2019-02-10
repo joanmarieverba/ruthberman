@@ -14,6 +14,11 @@ body {
   height: 50px;
 }
 
+.card-title {
+  color: black;
+  font-weight: bold;
+}
+
 .cover {
   width: 150px;
   height: 225px;
