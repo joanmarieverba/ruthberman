@@ -174,9 +174,9 @@ section-font {
   padding: 58px 34px 73px 32px;
   transition: all 0.3s ease 0s;
 }
-.single-service:hover {
+/* .single-service:hover {
     background-color: azure;
-}
+} */
 .custom-col {
   padding: 0 37px;
 }
