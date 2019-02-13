@@ -8,6 +8,9 @@ body {
   font-size: 5vh;
 }
 
+.bottom-pad {
+  padding-bottom: 10px;
+}
 
 .btn {
   width: 150px;
@@ -35,7 +38,7 @@ body {
 .inside-box {
     margin-left: 15px;
     width: 97vw;
-    outline: 1px solid tomato;
+    outline: 1px solid black;
     outline-offset: -1px;
     z-index: -1;
 }
@@ -131,10 +134,6 @@ section-font {
 	margin:-20px 0 0 30px;
   background-color: white;
   z-index: 1;
-    /* width:30px;
-    margin-top:-10px;
-    margin-left:5px;
-    background:white; */
 }
 
 .top-vspace {
