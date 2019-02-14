@@ -22,6 +22,7 @@ body {
   font-weight: bold;
 }
 
+
 .cover {
   width: 150px;
   height: 225px;
@@ -132,6 +133,14 @@ section-font {
 	float:left;
 	padding:0 5px;
 	margin:-20px 0 0 30px;
+  background-color: white;
+  z-index: 1;
+}
+
+.titlebox-blue{
+	float:left;
+	padding:0 5px;
+	margin:-35px 0 0 30px;
   background-color: white;
   z-index: 1;
 }
