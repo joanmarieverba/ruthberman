@@ -38,7 +38,7 @@ body {
 .inside-box {
     margin-left: 15px;
     width: 97vw;
-    outline: 1px solid black;
+    outline: 1px solid midnightblue;
     outline-offset: -1px;
     z-index: -1;
 }
