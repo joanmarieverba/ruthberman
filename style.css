@@ -28,7 +28,6 @@ body {
   height: 225px;
 }
 
-
 .imgtop {
   position: absolute;
   left: 0px;
@@ -134,15 +133,15 @@ section-font {
 	padding:0 5px;
 	margin:-20px 0 0 30px;
   background-color: white;
-  z-index: 1;
+  z-index: 10;
 }
 
 .titlebox-blue{
 	float:left;
 	padding:0 5px;
-	margin:-35px 0 0 30px;
-  background-color: white;
-  z-index: 1;
+	margin:-50px 0 0 30px;
+  background: white;
+  z-index: 10;
 }
 
 .top-vspace {
