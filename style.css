@@ -150,6 +150,13 @@ section-font {
   z-index: 10;
 }
 
+.titlebox-books {
+	padding:0 5px;
+	margin:-20px 0 0 30px;
+  background-color: white;
+  z-index: 10;
+}
+
 .top-vspace {
   margin-top: 5vh;
 }
