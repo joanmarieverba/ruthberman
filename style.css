@@ -153,8 +153,8 @@ section-font {
 .titlebox-books {
   width: 105px;
   padding-left: 5px;
-	margin:-20px 0 0 0px;
-  background-color:tomato;
+	margin:-20px 0 0 30px;
+  background-color: white;
   z-index: 10;
 }
 
