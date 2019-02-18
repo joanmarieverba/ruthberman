@@ -167,7 +167,7 @@ section-font {
 .titlebox-books {
   width: 105px;
   padding-left: 5px;
-	margin:-20px 0 0 30px;
+	margin:-2.5vh 0 0 2.5vw;
   background-color: white;
   z-index: 10;
 }
